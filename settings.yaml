@@ -1,0 +1,6 @@
+# 选项间间隔
+choice_interval: 0
+# 选项宽度
+choice_width: 0
+# 选项
+choices: [ 'A', 'B', 'C', 'D' ]
